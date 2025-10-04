@@ -38,10 +38,8 @@ ReadingScore
 WritingScore
 WklyStudyHours
 
-⚙️ How to Run
-Clone the repository: git clone https://github.com/AjayPrajapati030409/student-performance-analysis.git
+⚙️ How to Install Libraries
 Install dependencies: pip install pandas numpy matplotlib seaborn
-Run the script: python student_analysis.py
 
 📌 Output Example
 Heatmaps showing score averages
