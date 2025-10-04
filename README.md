@@ -39,7 +39,7 @@ WritingScore
 WklyStudyHours
 
 ⚙️ How to Run
-Clone the repository: git clone https://github.com/yourusername/student-performance-analysis.git
+Clone the repository: git clone https://github.com/AjayPrajapati030409/student-performance-analysis.git
 Install dependencies: pip install pandas numpy matplotlib seaborn
 Run the script: python student_analysis.py
 
