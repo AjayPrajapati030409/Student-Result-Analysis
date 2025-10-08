@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sb
 
 
-data=pd.read_csv("C:\\Users\\HP\\OneDrive\\Desktop\\DAwithPython\\student_scores.csv")
+data=pd.read_csv("YourPath")
 #print(data.head())
 #print(data.describe())
 #print(data.info())
@@ -67,6 +67,7 @@ l=["GroupA","groupB","groupC","groupD","groupE"]
 plt.pie(mlist,labels=l,autopct="%1.2f%%")#autopct used for percentage
 
 #plt.show()
+
 
 
 
